@@ -1,0 +1,93 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Jupyter Notebook metadata
+.ipynb-meta
+
+# VS Code settings and workspace
+.vscode/
+*.code-workspace
+
+# Python virtual environment
+*.venv
+*.env
+
+# Cache files
+*.cache
+*.mypy_cache
+*.pytest_cache
+*.pyre/
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.cache
+
+# Logs and database
+*.log
+*.sqlite3
+
+# Local development settings
+*.local
+*.secret
+
+# Jupyter Notebook output cells
+*.ipynb-out
+
+# Temporary files and other OS-specific files
+.DS_Store
+Thumbs.db
+
+# CSV and other large data files (add specific file paths if needed)
+*.csv
+*.tsv
+*.data
+*.dat
+*.npy
+*.h5
+
+# Model and output files
+*.pkl
+*.joblib
+*.model
+*.weights
+
+# Machine learning models and checkpoints
+*.ckpt
+*.hdf5
+*.onnx
+
+# TensorFlow and PyTorch logs
+logs/
+*.tensorboard
+
+# Project-specific files
+notebooks-output/
+results/
